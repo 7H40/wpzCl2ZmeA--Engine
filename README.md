@@ -1,11 +1,3 @@
-<p align="center">
-    <a href="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images">
-        <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
-    </a>
-</p>
-
-<h1 align="center">Cheat Engine</h1>
-
 Cheat Engine is a development environment focused on modding games and applications for personal use.
 
 
